@@ -1,6 +1,15 @@
 {
   "cache_time": 7200,
   "api_site": {
-   
+   "ffzy5": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源站",
+      "detail": "http://ffzy5.tv/"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源",
+      "detail": "https://bfzy.tv/"
+    }
   }
 }
